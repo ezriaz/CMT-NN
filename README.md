@@ -1,7 +1,7 @@
 # CMT-NN
 
 ## Overview
-This repository contains the main Python script `VAN_MU.py` for processing and analyzing the dataset. The dataset files are stored in compressed split archives due to their large size.
+This repository contains the main Python script `VAN_MU.py` for training the dataset. The dataset files are stored in compressed split archives due to their large size.
 
 ## Dataset Information
 The primary dataset used in this project is split into multiple compressed volumes:
